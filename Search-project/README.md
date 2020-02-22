@@ -1,4 +1,4 @@
-# my-project
+# search-project
 
 ## Project setup
 ```
